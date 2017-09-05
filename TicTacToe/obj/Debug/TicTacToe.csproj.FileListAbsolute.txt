@@ -1,0 +1,8 @@
+D:\Etudes\Projets\4eme annee\Algotihmic\MiniMax\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\Etudes\Projets\4eme annee\Algotihmic\MiniMax\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\Etudes\Projets\4eme annee\Algotihmic\MiniMax\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\Etudes\Projets\4eme annee\Algotihmic\MiniMax\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+D:\Etudes\Projets\4eme annee\Algotihmic\MiniMax\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\Etudes\Projets\4eme annee\Algotihmic\MiniMax\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+D:\Etudes\Projets\4eme annee\Algotihmic\MiniMax\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\Etudes\Projets\4eme annee\Algotihmic\MiniMax\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
